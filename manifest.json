@@ -1,7 +1,13 @@
 {
    "name": "No Bandwidth Kick",
-   "author": "eternal",
    "description": "Stops discord from disconnecting you when you're in a call alone for more than 5 minutes.",
    "version": "1.0.0",
+   "authors": [
+      {
+         "name": "eternal",
+         "id": "263689920210534400"
+      }
+   ],
+   "main": "dist",
    "id": "eternal.no-bandwidth-kick"
 }
